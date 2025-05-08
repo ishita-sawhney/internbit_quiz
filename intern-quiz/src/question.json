@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Using the same password for multiple accounts is a secure practice.",
+    "options": ["True", "False"],
+    "correctAnswer": "False"
+  },
+  {
+    "question": "What is the most secure way to store your passwords?",
+    "options": ["Write them on a sticky note", "Save in a password manager", "Store in browser memory", "Remember all of them"],
+    "correctAnswer": "Save in a password manager"
+  },
+  {
+    "question": "Describe a phishing attack you've encountered or heard of.",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "question": "Antivirus software guarantees 100% protection against all threats.",
+    "options": ["True", "False"],
+    "correctAnswer": "False"
+  },
+  {
+    "question": "Which of the following is a strong password?",
+    "options": ["Password123", "John1990", "$7r0ng!P@ssW0rd#2024", "123456"],
+    "correctAnswer": "$7r0ng!P@ssW0rd#2024"
+  },
+  {
+    "question": "Explain why two-factor authentication is important.",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "question": "Public Wi-Fi networks are always safe if they require a password.",
+    "options": ["True", "False"],
+    "correctAnswer": "False"
+  },
+  {
+    "question": "What should you do if you receive a suspicious email asking for credentials?",
+    "options": ["Reply with your information", "Click the link to check", "Report it as phishing", "Ignore and delete"],
+    "correctAnswer": "Report it as phishing"
+  },
+  {
+    "question": "Mention one good practice for securing mobile devices.",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "question": "Only IT staff need to be concerned about cybersecurity.",
+    "options": ["True", "False"],
+    "correctAnswer": "False"
+  },
+  {
+    "question": "Which of the following is NOT a form of malware?",
+    "options": ["Worm", "Spyware", "Firewall", "Trojan"],
+    "correctAnswer": "Firewall"
+  },
+  {
+    "question": "Name one reason why people reuse passwords.",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "question": "It’s safe to install apps from third-party sources if they look legitimate.",
+    "options": ["True", "False"],
+    "correctAnswer": "False"
+  },
+  {
+    "question": "What’s the best method to secure a lost device with sensitive data?",
+    "options": ["Hope it’s not found", "Remotely wipe data", "Wait and see if it’s returned", "Change wallpaper to ‘Call me’"],
+    "correctAnswer": "Remotely wipe data"
+  },
+  {
+    "question": "List one action you would take if your account was hacked.",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "question": "Regular software updates can prevent exploitation of known vulnerabilities.",
+    "options": ["True", "False"],
+    "correctAnswer": "True"
+  },
+  {
+    "question": "What is social engineering in cybersecurity?",
+    "options": [],
+    "correctAnswer": ""
+  },
+  {
+    "question": "Which is the safest option for email attachment handling?",
+    "options": ["Open all attachments quickly", "Verify sender before opening", "Download first, scan later", "Share with others before opening"],
+    "correctAnswer": "Verify sender before opening"
+  },
+  {
+    "question": "Cybersecurity policies are only important for large companies.",
+    "options": ["True", "False"],
+    "correctAnswer": "False"
+  },
+  {
+    "question": "Suggest a way to educate employees about cybersecurity risks.",
+    "options": [],
+    "correctAnswer": ""
+  }
+]
